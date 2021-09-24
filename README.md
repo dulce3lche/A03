@@ -66,7 +66,8 @@ Once you launch WebStorm, you will see the Welcome screen, the starting point to
 
 **Customize environment:**
   1.	In the left-hand pane, click Customize.
-  2.	In the Color theme area, specify the user interface theme. Choose the appropriate theme from the list or select the Sync with OS checkbox to use your system default theme.
+  2.	In the Color theme area, specify the user interface theme. Choose the appropriate theme from the list or select the Sync with OS checkbox to use your system default 
+  theme.
 
   Gif
   You can change the theme at any time later in the Switch popup (Ctrl+`). For more information, see User interface themes.
